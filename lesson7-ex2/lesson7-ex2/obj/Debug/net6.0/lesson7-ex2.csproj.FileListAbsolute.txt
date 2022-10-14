@@ -1,0 +1,15 @@
+/Users/galfried/Projects/lesson7-ex2/lesson7-ex2/bin/Debug/net6.0/lesson7-ex2
+/Users/galfried/Projects/lesson7-ex2/lesson7-ex2/bin/Debug/net6.0/lesson7-ex2.deps.json
+/Users/galfried/Projects/lesson7-ex2/lesson7-ex2/bin/Debug/net6.0/lesson7-ex2.runtimeconfig.json
+/Users/galfried/Projects/lesson7-ex2/lesson7-ex2/bin/Debug/net6.0/lesson7-ex2.dll
+/Users/galfried/Projects/lesson7-ex2/lesson7-ex2/bin/Debug/net6.0/lesson7-ex2.pdb
+/Users/galfried/Projects/lesson7-ex2/lesson7-ex2/obj/Debug/net6.0/lesson7-ex2.csproj.AssemblyReference.cache
+/Users/galfried/Projects/lesson7-ex2/lesson7-ex2/obj/Debug/net6.0/lesson7-ex2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/galfried/Projects/lesson7-ex2/lesson7-ex2/obj/Debug/net6.0/lesson7-ex2.AssemblyInfoInputs.cache
+/Users/galfried/Projects/lesson7-ex2/lesson7-ex2/obj/Debug/net6.0/lesson7-ex2.AssemblyInfo.cs
+/Users/galfried/Projects/lesson7-ex2/lesson7-ex2/obj/Debug/net6.0/lesson7-ex2.csproj.CoreCompileInputs.cache
+/Users/galfried/Projects/lesson7-ex2/lesson7-ex2/obj/Debug/net6.0/lesson7-ex2.dll
+/Users/galfried/Projects/lesson7-ex2/lesson7-ex2/obj/Debug/net6.0/refint/lesson7-ex2.dll
+/Users/galfried/Projects/lesson7-ex2/lesson7-ex2/obj/Debug/net6.0/lesson7-ex2.pdb
+/Users/galfried/Projects/lesson7-ex2/lesson7-ex2/obj/Debug/net6.0/lesson7-ex2.genruntimeconfig.cache
+/Users/galfried/Projects/lesson7-ex2/lesson7-ex2/obj/Debug/net6.0/ref/lesson7-ex2.dll
